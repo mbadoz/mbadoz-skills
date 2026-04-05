@@ -1,0 +1,8 @@
+{
+  "name": "cron-openclaw",
+  "description": "Create and manage cron jobs and scheduled tasks in OpenClaw",
+  "version": "1.0.0",
+  "author": {
+    "name": "mbadoz"
+  }
+}

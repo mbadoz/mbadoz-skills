@@ -1,0 +1,8 @@
+{
+  "name": "openclaw-skelette",
+  "description": "Expert en creation et audit de squelettes d agents OpenClaw",
+  "version": "1.0.0",
+  "author": {
+    "name": "mbadoz"
+  }
+}

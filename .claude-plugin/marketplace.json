@@ -4,13 +4,44 @@
     "name": "mbadoz"
   },
   "metadata": {
-    "description": "Curated skills for 3D web, AI learning, task planning, OpenClaw, and pixel art."
+    "description": "Curated skills for 3D web, AI learning, task planning, OpenClaw, and pixel art.",
+    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
-      "name": "mbadoz-skills",
-      "source": ".",
-      "description": "Collection of curated Claude Code skills: 3D pixel web, adaptive learning, task planning, OpenClaw tools, and pixel art portfolios.",
+      "name": "3d-pixel-web",
+      "source": "3d-pixel-web",
+      "description": "3D websites with pixel art and mosaic UI/UX using Three.js",
+      "version": "1.0.0"
+    },
+    {
+      "name": "adaptive-learner",
+      "source": "adaptive-learner",
+      "description": "AI self-improvement through structured feedback analysis",
+      "version": "1.0.0"
+    },
+    {
+      "name": "built-planner",
+      "source": "built-planner",
+      "description": "Comprehensive task planning with detailed execution plans",
+      "version": "1.0.0"
+    },
+    {
+      "name": "cron-openclaw",
+      "source": "cron-openclaw",
+      "description": "Create and manage cron jobs and scheduled tasks in OpenClaw",
+      "version": "1.0.0"
+    },
+    {
+      "name": "openclaw-skelette",
+      "source": "openclaw-skelette",
+      "description": "Expert en creation et audit de squelettes d'agents OpenClaw",
+      "version": "1.0.0"
+    },
+    {
+      "name": "pixel-art-ui-portfolio",
+      "source": "pixel-art-ui-portfolio",
+      "description": "Narrative pixel art portfolio websites using PixelLab API",
       "version": "1.0.0"
     }
   ]

@@ -1,0 +1,8 @@
+{
+  "name": "3d-pixel-web",
+  "description": "3D websites with pixel art and mosaic UI/UX using Three.js",
+  "version": "1.0.0",
+  "author": {
+    "name": "mbadoz"
+  }
+}

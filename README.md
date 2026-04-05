@@ -15,11 +15,23 @@ A curated collection of Claude Code skills.
 
 ## Installation
 
+First, add the marketplace:
+
 ```bash
 /plugin marketplace add mbadoz/mbadoz-skills
-/plugin install mbadoz-skills@mbadoz-skills
+```
+
+Then install only the skills you want:
+
+```bash
+/plugin install 3d-pixel-web@mbadoz-skills
+/plugin install adaptive-learner@mbadoz-skills
+/plugin install built-planner@mbadoz-skills
+/plugin install cron-openclaw@mbadoz-skills
+/plugin install openclaw-skelette@mbadoz-skills
+/plugin install pixel-art-ui-portfolio@mbadoz-skills
 ```
 
 ## Usage
 
-After installation, the skills activate automatically based on your task context. Run `/reload-plugins` to load them.
+After installation, run `/reload-plugins` to activate. Skills trigger automatically based on your task context.
