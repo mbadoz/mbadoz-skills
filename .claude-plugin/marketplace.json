@@ -1,0 +1,17 @@
+{
+  "name": "mbadoz-skills",
+  "owner": {
+    "name": "mbadoz"
+  },
+  "metadata": {
+    "description": "Curated skills for 3D web, AI learning, task planning, OpenClaw, and pixel art."
+  },
+  "plugins": [
+    {
+      "name": "mbadoz-skills",
+      "source": ".",
+      "description": "Collection of curated Claude Code skills: 3D pixel web, adaptive learning, task planning, OpenClaw tools, and pixel art portfolios.",
+      "version": "1.0.0"
+    }
+  ]
+}

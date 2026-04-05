@@ -1,0 +1,8 @@
+{
+  "name": "mbadoz-skills",
+  "description": "Collection of curated Claude Code skills: 3D pixel web, adaptive learning, task planning, OpenClaw tools, and pixel art portfolios.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mbadoz"
+  }
+}
